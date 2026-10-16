@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?><Annotations>
+  <Annotation about="latinamericanliteraturetoday.org/es/numero/*" timestamp="0x00065d7e57bffa97" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="latinamericanliteraturetoday.org/es/numero/*"/>
+  </Annotation>
+  <Annotation about="www.caratula.net/tag/*" timestamp="0x00065d1b90a291ff" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.caratula.net/tag/*"/>
+  </Annotation>
+  <Annotation about="criticismo.com/criticos/*" timestamp="0x00065cd4030641dd" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://criticismo.com/criticos/*"/>
+  </Annotation>
+  <Annotation about="*.revistaelgolem.com/*" timestamp="0x00065cb821088fef" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="revistaelgolem.com/*"/>
+  </Annotation>
+  <Annotation about="paginasalmon.com/page/*" timestamp="0x00065c4646378a39" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://paginasalmon.com/page/*"/>
+  </Annotation>
+  <Annotation about="paginasalmon.com/category/*" timestamp="0x00065c44f95c7fa3" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://paginasalmon.com/category/*"/>
+  </Annotation>
+  <Annotation about="blog.revistadelauniversidad.mx/category/*" timestamp="0x00065b3759e77355" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="blog.revistadelauniversidad.mx/category/*"/>
+  </Annotation>
+  <Annotation about="rialta.org/tag/*" timestamp="0x00065a8b3cfd917a" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://rialta.org/tag/*"/>
+  </Annotation>
+  <Annotation about="sdemergencia.com/category/*" timestamp="0x00065a6094806052" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://sdemergencia.com/category/*"/>
+  </Annotation>
+  <Annotation about="puntodepartida.unam.mx/numeros/*-colaboradores/" timestamp="0x00065a5b59acc928" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="puntodepartida.unam.mx/numeros/*-colaboradores/"/>
+  </Annotation>
+  <Annotation about="casadeltiempo.uam.mx/index.php/*-indice" timestamp="0x00065a32371f464b" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="casadeltiempo.uam.mx/index.php/*-indice"/>
+  </Annotation>
+  <Annotation about="letralia.com/fotan-fotografia/*" timestamp="0x000659e0e2399738" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://letralia.com/fotan-fotografia/*"/>
+  </Annotation>
+  <Annotation about="letraslibres.com/seccion/*" timestamp="0x00065992f9ab857c" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://letraslibres.com/seccion/*"/>
+  </Annotation>
+  <Annotation about="armasyletrasenlinea.uanl.mx/tag/*" timestamp="0x00065992a78482a6" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://armasyletrasenlinea.uanl.mx/tag/*"/>
+  </Annotation>
+  <Annotation about="*.letralia.com/*/page/*" timestamp="0x000659922007d89a" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://letralia.com/*/page/*"/>
+  </Annotation>
+  <Annotation about="www.caratula.net/author/*" timestamp="0x0006598361bce516" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.caratula.net/author/*"/>
+  </Annotation>
+  <Annotation about="literalmagazine.com/series/*" timestamp="0x0006596e711fa1a6" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://literalmagazine.com/series/*"/>
+  </Annotation>
+  <Annotation about="letralia.com/articulos-y-reportajes/*" timestamp="0x00065967c29a4c08" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://letralia.com/articulos-y-reportajes/*"/>
+  </Annotation>
+  <Annotation about="letralia.com/transletralia-traducciones/*" timestamp="0x0006592dcf9369d9" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://letralia.com/transletralia-traducciones/*"/>
+  </Annotation>
+  <Annotation about="circulodepoesia.com/libreria/*" timestamp="0x0006591a189adbc3" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://circulodepoesia.com/libreria/*"/>
+  </Annotation>
+  <Annotation about="circulodepoesia.com/product*" timestamp="0x0006591a1265f34b" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://circulodepoesia.com/product"/>
+  </Annotation>
+  <Annotation about="letralia.com/entrevistas/*" timestamp="0x0006590e85189589" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="letralia.com/entrevistas/*"/>
+  </Annotation>
+  <Annotation about="letralia.com/lecturas/*" timestamp="0x0006590e8505e469" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="letralia.com/lecturas/*"/>
+  </Annotation>
+  <Annotation about="letralia.com/sala-de-ensayo/*" timestamp="0x0006590e84f28165" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="letralia.com/sala-de-ensayo/*"/>
+  </Annotation>
+  <Annotation about="letralia.com/letras/*" timestamp="0x0006590e84df1aef" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="letralia.com/letras/*"/>
+  </Annotation>
+  <Annotation about="revistasantiago.cl/cms/wp-content/uploads/*.pdf" timestamp="0x0006590e82c5aa4a" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://revistasantiago.cl/cms/wp-content/uploads/*.pdf"/>
+  </Annotation>
+  <Annotation about="www.uam.mx/difusion/casadeltiempo/*/creditos.html" timestamp="0x000658e39b24eb46" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.uam.mx/difusion/casadeltiempo/*/creditos.html"/>
+  </Annotation>
+  <Annotation about="www.revistadelauniversidad.mx/search?q=*" timestamp="0x000658e38ab85166" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.revistadelauniversidad.mx/search?q=*"/>
+  </Annotation>
+  <Annotation about="www.uam.mx/difusion/casadeltiempo/*/index.html" timestamp="0x000658e330e5e633" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.uam.mx/difusion/casadeltiempo/*/index.html"/>
+  </Annotation>
+  <Annotation about="literalmagazine.com/category/*" timestamp="0x000658b5da72455a" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://literalmagazine.com/category/*"/>
+  </Annotation>
+  <Annotation about="literalmagazine.com/author/*" timestamp="0x00065857e239252e" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://literalmagazine.com/author/*"/>
+  </Annotation>
+  <Annotation about="puntodepartida.unam.mx/category/*" timestamp="0x0006584243be66a0" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://puntodepartida.unam.mx/category/*"/>
+  </Annotation>
+  <Annotation about="periodicodepoesia.unam.mx/category/*" timestamp="0x00065838805466d1" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://periodicodepoesia.unam.mx/category/*"/>
+  </Annotation>
+  <Annotation about="revistasantiago.cl/autor/*" timestamp="0x000658306cbe30fd" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://revistasantiago.cl/autor/*"/>
+  </Annotation>
+  <Annotation about="revistasantiago.cl/tema/*" timestamp="0x0006583069f62eb0" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://revistasantiago.cl/tema/*"/>
+  </Annotation>
+  <Annotation about="*.revistasantiago.cl/*" timestamp="0x00065830622c893a" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://revistasantiago.cl/*"/>
+  </Annotation>
+  <Annotation about="tierraadentro.fondodeculturaeconomica.com/*.pdf" timestamp="0x000657feff6181d5" score="1.0">
+    <Label name="_include_"/>
+    <Label name="pdf"/>
+    <AdditionalData attribute="original_url" value="https://tierraadentro.fondodeculturaeconomica.com/*.pdf"/>
+  </Annotation>
+  <Annotation about="rialta.org/author/*" timestamp="0x000657fece0ead79" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://rialta.org/author/*"/>
+  </Annotation>
+  <Annotation about="rialta.org/noticias/*" timestamp="0x000657d6a9a553fb" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://rialta.org/noticias/*"/>
+  </Annotation>
+  <Annotation about="revistadossier.udp.cl/dossier/*" timestamp="0x000657ad676f6b31" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://revistadossier.udp.cl/dossier/*"/>
+  </Annotation>
+  <Annotation about="www.uam.mx/difusion/casadeltiempo/*/index.php" timestamp="0x000656ecac2a4a75" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.uam.mx/difusion/casadeltiempo/*/index.php"/>
+  </Annotation>
+  <Annotation about="puntodepartida.unam.mx/author/*" timestamp="0x000656eca335ac4a" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://puntodepartida.unam.mx/author/*"/>
+  </Annotation>
+  <Annotation about="www.laotrarevista.com/category/*" timestamp="0x000656ea13f453df" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.laotrarevista.com/category/*"/>
+  </Annotation>
+  <Annotation about="archivopdp.unam.mx/*.pdf" timestamp="0x000656cfe68a82f1" score="1.0">
+    <Label name="_include_"/>
+    <Label name="pdf"/>
+    <AdditionalData attribute="original_url" value="https://archivopdp.unam.mx/*.pdf"/>
+  </Annotation>
+  <Annotation about="periodicodepoesia.unam.mx/*.pdf" timestamp="0x000656cfe451f934" score="1.0">
+    <Label name="_include_"/>
+    <Label name="pdf"/>
+    <AdditionalData attribute="original_url" value="https://periodicodepoesia.unam.mx/*.pdf"/>
+  </Annotation>
+  <Annotation about="puntodepartida.unam.mx/wp-content/uploads/*.pdf" timestamp="0x00065672dd9e9b82" score="1.0">
+    <Label name="_include_"/>
+    <Label name="pdf"/>
+    <AdditionalData attribute="original_url" value="https://puntodepartida.unam.mx/wp-content/uploads/*.pdf"/>
+  </Annotation>
+  <Annotation about="www.jotdown.es/*" timestamp="0x0006566e2dca6048" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="www.jotdown.es/*"/>
+  </Annotation>
+  <Annotation about="paginasalmon.com/tag/*" timestamp="0x0006566326882adf" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://paginasalmon.com/tag/*"/>
+  </Annotation>
+  <Annotation about="www.jotdown.es/autores/*" timestamp="0x0006565e44b27a94" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.jotdown.es/autores/*"/>
+  </Annotation>
+  <Annotation about="www.jotdown.es/category/*" timestamp="0x0006565e2ff7975d" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.jotdown.es/category/*"/>
+  </Annotation>
+  <Annotation about="www.jotdown.es/store/*" timestamp="0x0006565e2b0463ad" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="www.jotdown.es/store/*"/>
+  </Annotation>
+  <Annotation about="www.jotdown.es/tag/*" timestamp="0x0006565e2a118eb8" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="www.jotdown.es/tag/*"/>
+  </Annotation>
+  <Annotation about="www.revistadelauniversidad.mx/downloads/*.pdf" timestamp="0x000654503d5d820b" score="1.0">
+    <Label name="_include_"/>
+    <Label name="pdf"/>
+    <AdditionalData attribute="original_url" value="https://www.revistadelauniversidad.mx/downloads/*.pdf"/>
+  </Annotation>
+  <Annotation about="letraslibres.com/wp-content/uploads/*.pdf" timestamp="0x0006544fdf06258a" score="1.0">
+    <Label name="_include_"/>
+    <Label name="pdf"/>
+    <AdditionalData attribute="original_url" value="https://letraslibres.com/wp-content/uploads/*.pdf"/>
+  </Annotation>
+  <Annotation about="armasyletrasenlinea.uanl.mx/wp-content/uploads/*.pdf" timestamp="0x0006544fc1cf629b" score="1.0">
+    <Label name="_include_"/>
+    <Label name="pdf"/>
+    <AdditionalData attribute="original_url" value="https://armasyletrasenlinea.uanl.mx/wp-content/uploads/*.pdf"/>
+  </Annotation>
+  <Annotation about="materialdelectura.unam.mx/component/finder/*" timestamp="0x0006538b7bbc3a6f" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://materialdelectura.unam.mx/component/finder/*"/>
+  </Annotation>
+  <Annotation about="literalmagazine.com/tag/*" timestamp="0x000652c46924ca5c" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="literalmagazine.com/tag/*"/>
+  </Annotation>
+  <Annotation about="*.circulodepoesia.com/*/page/*" timestamp="0x000651f7211a9290" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="circulodepoesia.com/*/page/*"/>
+  </Annotation>
+  <Annotation about="cuadernoshispanoamericanos.com/seccion/*" timestamp="0x000651f3b555a233" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="cuadernoshispanoamericanos.com/seccion/*"/>
+  </Annotation>
+  <Annotation about="revistareplicante.com/*/page/" timestamp="0x000651f3ad7ce1ae" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="revistareplicante.com/*/page/"/>
+  </Annotation>
+  <Annotation about="poesia.uc.edu.ve/tag/*" timestamp="0x000651f36613c55f" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="poesia.uc.edu.ve/tag/*"/>
+  </Annotation>
+  <Annotation about="poesia.uc.edu.ve/*" timestamp="0x000651f36377f3e4" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="poesia.uc.edu.ve/*"/>
+  </Annotation>
+  <Annotation about="revistapalimpsesto.com/categorias/*" timestamp="0x000651f133873500" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="revistapalimpsesto.com/categorias/*"/>
+  </Annotation>
+  <Annotation about="revistapalimpsesto.com/palimpsesto*" timestamp="0x000651f12d334c2c" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="revistapalimpsesto.com/palimpsesto*"/>
+  </Annotation>
+  <Annotation about="*.revistapalimpsesto.com/*" timestamp="0x000651f121b7ed1b" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="revistapalimpsesto.com/*"/>
+  </Annotation>
+  <Annotation about="periodicodepoesia.unam.mx/tag/*" timestamp="0x000651dedd6e7559" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="periodicodepoesia.unam.mx/tag/*"/>
+  </Annotation>
+  <Annotation about="sdemergencia.com/author/*" timestamp="0x000651cb024ab7d1" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="sdemergencia.com/author/*"/>
+  </Annotation>
+  <Annotation about="www.revistadelauniversidad.mx/archive/*" timestamp="0x000651cafc5fb10c" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.revistadelauniversidad.mx/archive/*"/>
+  </Annotation>
+  <Annotation about="tierraadentro.fondodeculturaeconomica.com/index-nuevo/*" timestamp="0x000651b8f91b0db4" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="tierraadentro.fondodeculturaeconomica.com/index-nuevo/*"/>
+  </Annotation>
+  <Annotation about="www.revistadelauniversidad.mx/collabs*" timestamp="0x000651b5f2603277" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="www.revistadelauniversidad.mx/collabs*"/>
+  </Annotation>
+  <Annotation about="circulodepoesia.com/tag/*" timestamp="0x000651a7cd7b9998" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://circulodepoesia.com/tag/*"/>
+  </Annotation>
+  <Annotation about="letraslibres.com/author/*" timestamp="0x0006519ede417626" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://letraslibres.com/author/*"/>
+  </Annotation>
+  <Annotation about="periodicodepoesia.unam.mx/autor/*" timestamp="0x00065195fbeed50f" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://periodicodepoesia.unam.mx/autor/*"/>
+  </Annotation>
+  <Annotation about="literalmagazine.com/issue/*" timestamp="0x00065194ffb75ae6" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://literalmagazine.com/issue/*"/>
+  </Annotation>
+  <Annotation about="www.uam.mx/difusion/revista/*/index.html" timestamp="0x000651932f8b26f4" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.uam.mx/difusion/revista/*/index.html"/>
+  </Annotation>
+  <Annotation about="www.uam.mx/difusion/revista/revcasa*.html" timestamp="0x000651932d8fbd86" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.uam.mx/difusion/revista/revcasa*.html"/>
+  </Annotation>
+  <Annotation about="www.uam.mx/difusion/revista/*" timestamp="0x000651932b46f49c" score="1.0">
+    <Label name="_include_"/>
+    <Label name="pdf"/>
+    <AdditionalData attribute="original_url" value="www.uam.mx/difusion/revista/*"/>
+  </Annotation>
+  <Annotation about="www.revistadelauniversidad.mx/releases/*" timestamp="0x0006517da619ea86" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://www.revistadelauniversidad.mx/releases/*"/>
+  </Annotation>
+  <Annotation about="revistareplicante.com/colaboradores/*" timestamp="0x0006517d7e4665dd" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="revistareplicante.com/colaboradores/*"/>
+  </Annotation>
+  <Annotation about="revistareplicante.com/page/*" timestamp="0x0006517d75395e40" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="revistareplicante.com/page/*"/>
+  </Annotation>
+  <Annotation about="cuadernoshispanoamericanos.com/page/*" timestamp="0x0006517a9b8316d3" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://cuadernoshispanoamericanos.com/page/*"/>
+  </Annotation>
+  <Annotation about="cuadernoshispanoamericanos.com/tag/*" timestamp="0x0006517a99643408" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://cuadernoshispanoamericanos.com/tag/*"/>
+  </Annotation>
+  <Annotation about="tierraadentro.fondodeculturaeconomica.com/category/*" timestamp="0x0006517a5fce580a" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://tierraadentro.fondodeculturaeconomica.com/category/*"/>
+  </Annotation>
+  <Annotation about="tierraadentro.fondodeculturaeconomica.com/author/*" timestamp="0x0006517a58a2bb68" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="https://tierraadentro.fondodeculturaeconomica.com/author/*"/>
+  </Annotation>
+  <Annotation about="tierraadentro.fondodeculturaeconomica.com/tag/*" timestamp="0x0006517a5050c292" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="tierraadentro.fondodeculturaeconomica.com/tag/*"/>
+  </Annotation>
+  <Annotation about="materialdelectura.unam.mx/indices/*" timestamp="0x0006517a3053f77b" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="materialdelectura.unam.mx/indices/*"/>
+  </Annotation>
+  <Annotation about="materialdelectura.unam.mx/*showall=1" timestamp="0x0006517a2fb29845" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="materialdelectura.unam.mx/*showall=1"/>
+  </Annotation>
+  <Annotation about="materialdelectura.unam.mx/*.pdf" timestamp="0x0006517a2eea7ff5" score="1.0">
+    <Label name="_exclude_"/>
+    <AdditionalData attribute="original_url" value="materialdelectura.unam.mx/*.pdf"/>
+  </Annotation>
+  <Annotation about="materialdelectura.unam.mx/*" timestamp="0x0006517a2b7fae5a" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="materialdelectura.unam.mx/*"/>
+  </Annotation>
+  <Annotation about="*.rialta.org/*" timestamp="0x00064ca12783b189" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="rialta.org/*"/>
+  </Annotation>
+  <Annotation about="*.lasantacritica.com/*" timestamp="0x000647a7b166bc42" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://lasantacritica.com"/>
+  </Annotation>
+  <Annotation about="uam.mx/difusion/casadeltiempo/*" timestamp="0x000647a62bda1956" score="1.0">
+    <Label name="_include_"/>
+    <Label name="pdf"/>
+    <AdditionalData attribute="original_url" value="uam.mx/difusion/casadeltiempo/*"/>
+  </Annotation>
+  <Annotation about="*.mxfractal.org/*" timestamp="0x000647a629226d5f" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="mxfractal.org/*"/>
+  </Annotation>
+  <Annotation about="bibliotecademexico.gob.mx/revistabm/*" timestamp="0x000647a628a532f0" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="bibliotecademexico.gob.mx/revistabm/*"/>
+  </Annotation>
+  <Annotation about="*.paginasalmon.com/*" timestamp="0x000647a627da96c6" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="paginasalmon.com/*"/>
+  </Annotation>
+  <Annotation about="lapalabrayelhombre.uv.mx/index.php/palabrahombre/article/download/*" timestamp="0x000647a626cfa674" score="1.0">
+    <Label name="_include_"/>
+    <Label name="pdf"/>
+    <AdditionalData attribute="original_url" value="lapalabrayelhombre.uv.mx/index.php/palabrahombre/article/download/*"/>
+  </Annotation>
+  <Annotation about="*.sdemergencia.com/*" timestamp="0x000647a6254d18c1" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="sdemergencia.com"/>
+  </Annotation>
+  <Annotation about="*.laotrarevista.com/*" timestamp="0x000647a6253f99db" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="laotrarevista.com"/>
+  </Annotation>
+  <Annotation about="*.granta.com.es/*" timestamp="0x000647a62531c01b" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="granta.com.es"/>
+  </Annotation>
+  <Annotation about="artesdemexico.com/blog*" timestamp="0x000647a6252ab181" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="artesdemexico.com/blog"/>
+  </Annotation>
+  <Annotation about="grafografxs.uaemex.mx/*" timestamp="0x000647a6251b3bd7" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="grafografxs.uaemex.mx"/>
+  </Annotation>
+  <Annotation about="opcion.itam.mx/*" timestamp="0x000647a625149fda" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="opcion.itam.mx"/>
+  </Annotation>
+  <Annotation about="*.cuadernoshispanoamericanos.com/*" timestamp="0x000647a6250dd738" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="cuadernoshispanoamericanos.com"/>
+  </Annotation>
+  <Annotation about="*.conspiratio.mx/*" timestamp="0x000647a625060dd4" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="conspiratio.mx"/>
+  </Annotation>
+  <Annotation about="*.revistatimonel.com/*" timestamp="0x000647a624cfdb69" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="revistatimonel.com"/>
+  </Annotation>
+  <Annotation about="casadeltiempo.uam.mx/*" timestamp="0x000627fcba1c5ca9" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="casadeltiempo.uam.mx/"/>
+  </Annotation>
+  <Annotation about="*.criticismo.com/*" timestamp="0x000627fcba1c5c88" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="criticismo.com/"/>
+  </Annotation>
+  <Annotation about="armasyletrasenlinea.uanl.mx/*" timestamp="0x000627fcba1c5c67" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="armasyletrasenlinea.uanl.mx/"/>
+  </Annotation>
+  <Annotation about="latinamericanliteraturetoday.org/es/*" timestamp="0x000627fcba1c5c23" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="latinamericanliteraturetoday.org/es/"/>
+  </Annotation>
+  <Annotation about="*.caratula.net/*" timestamp="0x000627fcba1c5b47" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="caratula.net/"/>
+  </Annotation>
+  <Annotation about="*.literalmagazine.com/*" timestamp="0x000627fcba1c5b24" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="literalmagazine.com/"/>
+  </Annotation>
+  <Annotation about="*.circulodepoesia.com/*" timestamp="0x000627fcba1c5b00" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="circulodepoesia.com/"/>
+  </Annotation>
+  <Annotation about="*.luvina.com.mx/*" timestamp="0x000627fcba1c5aab" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="luvina.com.mx/"/>
+  </Annotation>
+  <Annotation about="tierraadentro.fondodeculturaeconomica.com/*" timestamp="0x000627fcba1c5a77" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="tierraadentro.fondodeculturaeconomica.com/"/>
+  </Annotation>
+  <Annotation about="*.revistadelauniversidad.mx/*" timestamp="0x000627fcba1c5a28" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="revistadelauniversidad.mx/"/>
+  </Annotation>
+  <Annotation about="periodicodepoesia.unam.mx/*" timestamp="0x000627fcba1c5a0c" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="periodicodepoesia.unam.mx/"/>
+  </Annotation>
+  <Annotation about="archivopdp.unam.mx/*" timestamp="0x000627fcba1c59f3" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="archivopdp.unam.mx/"/>
+  </Annotation>
+  <Annotation about="puntoenlinea.unam.mx/*" timestamp="0x000627fcba1c59d8" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="puntoenlinea.unam.mx/"/>
+  </Annotation>
+  <Annotation about="puntodepartida.unam.mx/*" timestamp="0x000627fcba1c59b7" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="puntodepartida.unam.mx/"/>
+  </Annotation>
+  <Annotation about="*.letraslibres.com/*" timestamp="0x000627fcba1c594a" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="letraslibres.com/"/>
+  </Annotation>
+  <Annotation about="*.revistareplicante.com/*" timestamp="0x000627fcba1c58a3" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="revistareplicante.com/"/>
+  </Annotation>
+</Annotations>

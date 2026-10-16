@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><CustomSearchEngine language="" safesearch="false" autocompletions="true" enable_promotions="false" top_refinements="-1">
+  <Title>Replicante</Title>
+  <Description/>
+  <Context>
+    <BackgroundLabels>
+      <Label name="_include_" mode="FILTER"/>
+      <Label name="_exclude_" mode="ELIMINATE"/>
+    </BackgroundLabels>
+    <Facet>
+      <FacetItem>
+        <Label name="pdf" mode="FILTER"/>
+        <Title>PDF</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="poesía" mode="BOOST" weight="0.7">
+          <Rewrite>poesía OR poema OR poeta OR poesia OR poemas</Rewrite>
+        </Label>
+        <Title>Poesía</Title>
+      </FacetItem>
+      <FacetItem>
+        <Label name="cuento" mode="BOOST" weight="0.7">
+          <Rewrite>cuento OR ficción</Rewrite>
+        </Label>
+        <Title>Cuento</Title>
+      </FacetItem>
+    </Facet>
+  </Context>
+  <LookAndFeel element_layout="7" theme="5" enable_cse_thumbnail="true" element_branding="hide" custom_theme="true" font="1">
+    <Colors url="" title="" visited="" title_hover="" title_active="" text="" background="#EEEEEE" border="#EEEEEE"/>
+    <Promotions title_color="" title_visited_color="" title_hover_color="" title_active_color="" background_color="" border_color="" url_color="" snippet_color=""/>
+    <SearchControls input_border_color="" button_icon_color="" button_border_color="" button_background_color="" tab_border_color="" tab_background_color="#EEEEEE" tab_selected_border_color="" tab_selected_background_color="#EEEEEE"/>
+    <Results border_color="#F57C00" border_hover_color="" background_color="#EEEEEE" background_hover_color=""/>
+    <Logo url="" destination="" height="30"/>
+    <Widget query_parameter_name="q"/>
+  </LookAndFeel>
+  <ImageSearchSettings enable="true"/>
+  <cse_advance_settings enable_facet_search="false">
+    <web_search_options enable_history="true" show_structured_data="false">
+      <search_restrict_args lr="" cr="" gl="" filter="0" sort="" as_siteseach="" as_oq=""/>
+    </web_search_options>
+    <image_advanced_options default_to_image_search="false">
+      <search_restrict_args lr="" cr="" gl="" filter="0" sort="" as_siteseach="" as_oq=""/>
+    </image_advanced_options>
+    <search_options link_target="" query_additon="-&quot;daily archives&quot;"/>
+    <custom_search_control_options no_results_string=""/>
+  </cse_advance_settings>
+  <sort_by_keys label="Relevance" key=""/>
+  <sort_by_keys label="Date" key="date"/>
+  <autocomplete_settings source="2"/>
+</CustomSearchEngine>
