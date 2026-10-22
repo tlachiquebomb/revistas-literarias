@@ -1,6 +1,6 @@
 # Revistas Literarias 
 
-> [Manual de instrucciones próximamente; por lo pronto arroje palabras al azar y tenga suerte]
+> [Manual de [instrucciones](https://sourcego.blogspot.com/2014/11/boolean-strings-for-google.html) próximamente; por lo pronto arroje palabras al azar y tenga suerte]
 
 [#Contralgoritmia](https://contralgoritmia.com/) [~~[01]~~](https://contralgoritmia.com/wp-content/uploads/2025/02/sellos_contralgoritmo01-300x300.png)
 
