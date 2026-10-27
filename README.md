@@ -211,6 +211,7 @@
 * [Cariátide](https://revistacariatide.es/) [Digital]
 * [CTXT](https://ctxt.es/es/20251101/Culturas/) [Digital]
 * [HermanoCerdo](https://hermanocerdo.com/) [Digital]
+* [Zun](https://revistazun.com/)
 * [Revista de letras](https://web.archive.org/web/20220127193817/https://revistadeletras.net/) (internet archive)
 
 ### Misceláneas
