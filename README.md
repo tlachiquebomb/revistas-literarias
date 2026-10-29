@@ -115,6 +115,7 @@
 * [Por Escrito](https://www.porescrito.org/revista/)
 * [La Peste](https://web.archive.org/web/20230923034919/https://lapeste.mx/nueva/) (algunos numeros)
 * [Malabar](https://malabar-ed.com/mural/) [Digital]
+* [Jardín LAC](https://www.jardinlac.org/) [Digital]
 * [Aion](https://aion.mx/) [Digital]
 * [Cardenal](https://cardenalrevista.com/) [Digital]
 * [Irradiación](https://irradiacion.com.mx/) [Digital]
@@ -140,6 +141,11 @@
 #### Costa Rica
 
 * [CIICLA](https://repositorio.ciicla.ucr.ac.cr/handle/123456789/308)
+
+#### Ecuador
+
+* [Mura](https://mura.ec/) [Digital]
+* [Elipsis](https://www.elipsis.ec/) [Digital]
 
 #### Argentina
 
