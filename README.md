@@ -116,6 +116,7 @@
 * [La Peste](https://web.archive.org/web/20230923034919/https://lapeste.mx/nueva/) (algunos numeros)
 * [Malabar](https://malabar-ed.com/mural/) [Digital]
 * [Aion](https://aion.mx/) [Digital]
+* [Cardenal](https://cardenalrevista.com/) [Digital]
 * [Irradiación](https://irradiacion.com.mx/) [Digital]
 * [Purgante](https://revistapurgante.com/) [Digital]
 * [Iboga](https://revistaiboga.com/) [Digital]
