@@ -142,6 +142,10 @@
 
 * [CIICLA](https://repositorio.ciicla.ucr.ac.cr/handle/123456789/308)
 
+#### Nicaragua
+
+* [Alastor Literario](https://www.alastorliterario.com/) [Digital]
+
 #### Ecuador
 
 * [Mura](https://mura.ec/) [Digital]
