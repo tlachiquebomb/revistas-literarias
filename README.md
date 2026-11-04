@@ -62,7 +62,8 @@
 #### Listados
 
 * [Péndola](https://pendola.mx/) (revistas del siglo pasado)
-* [Apolo y baco](https://web.archive.org/web/20121228183005/http://www.apoloybaco.com/enlacesrevistas.htm)
+* [Apolo y baco](https://web.archive.org/web/20121228183005/http://www.apoloybaco.com/enlacesrevistas.htm) / [Internet Archive](https://apoloybaco.com/literatura/revistas-literarias/)
+* [Catálogo revistas españolas](https://ccesantiago.cl/wp/wp-content/uploads/2017/02/Catalogo-de-revistas-literarias-y-culturales-espa%C3%B1olas.pdf)
 * [Casa Escritura](https://web.archive.org/web/20200222234838/http://www.casaescritura.com/revistasliterarias1.htm)
 * [Herramientas para el estudio](https://www.uned.es/universidad/inicio/dam/jcr:a9126658-4c37-4b0d-996c-af6623ed2c48/LITERATURA_EN_LA_RED.pdf) (antiguos)
 * [Listado de revistas para publicar](https://perversionesdehombreave.blogspot.com/2018/01/listado-de-revistas-culturales-y.html?spref=fb)
@@ -125,11 +126,11 @@
 * [Marabunta](https://revistamarabunta.net/) [Digital]
 * [Enpoli](https://enpoli.com.mx/) [Digital]
 * [Otros dialogos](https://otrosdialogos.colmex.mx/) [Digital]
-* [Crítica](https://criticabuap.blogspot.com/) ([internet archive](https://web.archive.org/web/20171019104126/http://revistacritica.com/))
+* [Crítica](https://criticabuap.blogspot.com/) / ([internet archive](https://web.archive.org/web/20171019104126/http://revistacritica.com/))
 * [Campo de relámpagos](https://web.archive.org/web/20221204183340/http://campoderelampagos.org/archivo) (internet archive)
 * [Palabras Malditas](https://web.archive.org/web/20080720084034/http://www.palabrasmalditas.net/portada/) (internet archive)
 * [Reporte sexto piso](https://web.archive.org/web/20231023083441/https://reportesp.mx/) (internet archive)
-* [Migala](https://migala.mx/) ([internet archive](https://web.archive.org/web/20260113031017/https://migala.mx/))
+* [Migala](https://migala.mx/) / ([internet archive](https://web.archive.org/web/20260113031017/https://migala.mx/))
 * [Plástico](https://web.archive.org/web/20240518101859/https://revistaplastico.com/) (internet archive)
 
 #### Uruguay
@@ -159,7 +160,7 @@
 * [Por el camino de puan](https://porelcaminodepuan.com.ar/quienes-somos/)
 * [Buenos Aires Poetry](https://buenosairespoetry.com/)
 * [Otra Parte](https://www.revistaotraparte.com/revista-impresa/)
-* [Orsai](https://revistaorsai.com/) ([Numeros](https://revista.orsai.org/))
+* [Orsai](https://revistaorsai.com/) / ([Numeros](https://revista.orsai.org/))
 * [La idea fija](http://www.laideafija.com.ar/#revista)
 * [El interpretador](https://elinterpretador.net/) ([archivo](https://revistaelinterpretador.wordpress.com/))
 * [Revistas UBA](https://revistas.filo.uba.ar/index.php/index/index)
@@ -180,7 +181,7 @@
 
 * [CEDOC](https://cedoc.sisbib.unmsm.edu.pe/biblioteca-digital/revistas)
 * [Santa Rabia Poetry](https://santarabiapoetry.com/)
-* [Vallejo and Company](https://www.vallejoandcompany.com/) ([Internet archive](https://web.archive.org/web/20260613063358/https://www.vallejoandcompany.com/))
+* [Vallejo and Company](https://www.vallejoandcompany.com/) / ([Internet archive](https://web.archive.org/web/20260613063358/https://www.vallejoandcompany.com/))
 
 #### Chile
 
