@@ -120,6 +120,8 @@
 * [Aion](https://aion.mx/) [Digital]
 * [Cardenal](https://cardenalrevista.com/) [Digital]
 * [Irradiación](https://irradiacion.com.mx/) [Digital]
+* [Campos de plumas](https://camposdeplumas.com/) [Digital]
+* [Levadura](https://web.archive.org/web/20220805051245/https://revistalevadura.mx/#)
 * [Purgante](https://revistapurgante.com/) [Digital]
 * [Iboga](https://revistaiboga.com/) [Digital]
 * [Palabrerías](https://palabrerias.com/category/revista-palabrerias-3/) [Digital]
